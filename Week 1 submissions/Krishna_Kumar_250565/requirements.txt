@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+spacy
+numpy
+# to avoid cuda use, i have tested only on cpu version
+# pip install torch --index-url https://download.pytorch.org/whl/cpu 
+
+torch
+sentence-transformers 
